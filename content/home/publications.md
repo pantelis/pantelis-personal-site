@@ -66,6 +66,4 @@ subtitle = ""
  css_class = ""
 +++
 
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=zsx29hIAAAAJ&view_op=list_works&sortby=pubdate)

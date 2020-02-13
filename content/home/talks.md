@@ -38,7 +38,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -67,3 +67,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+### Robotics
+
+* [One year with Udacity's Self-driving Car Program](https://pantelis.github.io/slides/demos/one-year-with-udacity.html)
+
+### AI Pipelines
+
+* [Delivering AI Applications with Open Source Platforms at Scale](https://pantelis.github.io/slides/demos/open-athens-2019.html)

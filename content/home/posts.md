@@ -65,3 +65,5 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+[Medium](https://medium.com/@pantelism/1-year-with-udacitys-self-driving-car-program-10c348083099)
