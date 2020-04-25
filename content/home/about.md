@@ -18,7 +18,6 @@ author = "pantelis"
     "Artificial Intelligence",
     "Cloud-native Applications",
     "Agile Methodologies",
-     
   ]
 
 # List your qualifications (such as academic degrees).
