@@ -3,7 +3,7 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 91  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -75,9 +75,9 @@ subtitle = ""
  css_class = ""
 +++
 
-All non proprietary projects are accessible via my [Github](https://github.com/pantelis).
+All non-proprietary project code is in my [Github](https://github.com/pantelis). Wireless projects that include extensive NS-3 simulations are not there as they contain proprietary components and algorithms. 
 
-Computer Vision and Deep Learning
+### Computer Vision and Deep Learning
 
 1. Multi-camera Real Time Object Detection. We developed an end to end video pipeline based on Tensorflow and streaming frameworks that can detect using Resnet-50 extracted feature maps various objects in real time. The pipeline was tested a large indoor space covered by tens of cameras.
 
@@ -91,7 +91,7 @@ Computer Vision and Deep Learning
 
 6. Semantic Segmentation. Transfer learning was implemented on Fully Convolutional Network. Starting from VGG16 the FCN16s architecture was implemented aiming to paint each pixel of a sequence of training images according to the desired class.
 
-Tracking and Optimal Control
+### Tracking and Optimal Control
 
 1. Extended and Unscented Kalman Filters for Robots. In this project, EKF and UKF filters were used to estimate the state of a moving object of interest with noisy LIDAR and radar measurements.
 
@@ -99,10 +99,10 @@ Tracking and Optimal Control
 
 3. Model Predictive Control for autonomous vehicles. In this project we optimized MPC parameters, based on a kinematic model of the car. The optimally manipulated variables such as steering and throttle minimize the cost a quadratic function of cross track error (CTE) as well as velocity deviations from a nominal velocity value over a horizon of several seconds.
 
-Resource Assignment Policy Design
+### Resource Assignment Policy Design
 
-1. Behavioral Cloning for Optimal Resource Assignment (ongoing). In this project DNNs are used to approximate resource assignment algorithms. Accuracies of 98% have been achieved for simple policies and the work is on going for approximating complex policies.
+1. Behavioral Cloning for Optimal Resource Assignment. In this project DNNs are used to approximate resource assignment algorithms. Accuracies of 98% have been achieved for simple policies and the work is on going for approximating complex policies.
 
 2. Optimal Parameter Optimization in Networks. In this project series, network training datasets were used to learn interference patterns and the resultant statistics drive iterative structured optimization algorithms that maximize social utility for all network participants.
 
-3. Economic Networks. In this project resource protection limits were derived for each revenue class of users to adjust optimal priority levels that admit and/or define a classes of service.
+3. Economic Networks. In this project resource protection limits were derived for each class of users to adjust optimal priority levels that admit and/or define a classes of service.

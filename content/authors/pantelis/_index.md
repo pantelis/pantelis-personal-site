@@ -18,17 +18,17 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include robotics, computer vision and simulation.
+bio: 
 
 interests:
-- Artificial Intelligence
-- Machine Learning
+- 5G
+- Robotics and ML 
 - Simulation
 - Agile / Lean Methodologies
 
 education:
   courses:
-  - course: Self-Driving car Engineer
+  - course: Self-Driving Car Engineer
     institution: Udacity, California, USA
     year: 2018
   - course: Selected Courses in Machine Learning, Optimization, Yield Management and Corporate Finance
@@ -40,7 +40,7 @@ education:
   - course: MSc in Telematics
     institution: University of Surrey, UK
     year: 1991
-  - course: BEng in Electronics
+  - course: BEng in Electronic Engineering
     institution: Technological Educational Institute of Athens
     year: 1990
   
@@ -78,4 +78,8 @@ user_groups:
 - Visitors
 ---
 
-I am a recognized industry leader with more than 20 years experience in leading Research & Development projects. I started in wireless communications in the 90s and in 2000's started diversifying into Machine Learning initially for wireless networks and later for other mission critical applications such as surveilance and robotics. Currently I am the head of Applied Machine Learning Research at Bell Laboratories, leading ~15 researchers in Murray Hill NJ and Budapest. As of Spring 2019 I am also an adjunct with the Computer Science department of NJIT and as of Spring 2020 with NYU, Tandon School of Engineering. 15 journal publications and 50 patents issued/pending.
+I am a recognized industry leader with more than 20 years experience in leading Research & Development projects. I started working in wireless communications in the late 90s and went  through many generations of PHY and MAC layer design for 3G, HSPA, LTE and 5G mmwave (massive) antenna equipped systems. 
+
+In the 2010's started diversifying into Machine Learning (ML) and its role in optimizing wireless networks where we published groundbreaking papers from field trials, on several use cases associated with automated air-interface parameter optimization and beam-space end-user optimization. 
+
+Currently, I am the head of Applied Machine Learning Research at Bell Laboratories, leading ~15 researchers in Murray Hill NJ and Budapest. As of Spring 2019 I am also an adjunct with the Computer Science department of NJIT and as of Spring 2020 with NYU, Tandon School of Engineering. I have 15 journal publications with hundreds of citations and 50 patents issued/pending. 
