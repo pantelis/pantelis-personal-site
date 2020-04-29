@@ -22,7 +22,7 @@ bio:
 
 interests:
 - 5G
-- Robotics and ML 
+- Machine Learning and Robotics
 - Simulation
 - Agile / Lean Methodologies
 
@@ -66,7 +66,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/Pantelis-Resume-Dec-2019.pdf
+  link: files/Pantelis-Resume-Apr-2020.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
