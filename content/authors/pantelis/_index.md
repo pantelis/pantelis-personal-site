@@ -78,7 +78,7 @@ user_groups:
 - Visitors
 ---
 
-I am a recognized industry leader with more than 20 years experience in leading Research & Development projects. I started working in wireless communications and went  through many generations of PHY and MAC layer design for 3G, HSPA, LTE and 5G mmwave networks. 
+I am a recognized industry leader with more than 20 years experience in Research & Development. I started working in wireless communications and went  through many generations of PHY and MAC layer design for 3G, HSPA, LTE and recently 5G mmwave networks. 
 
 I started diversifying into Machine Learning (ML) in the last 10 years initially for optimizing networks where we published groundbreaking papers from field trials, on several use cases associated with automated LTE air-interface parameter optimization and 5G beam-space end-user localization. 
 
