@@ -7,7 +7,7 @@ weight = 3  # Order that this section will appear.
 
 # Slide interval.
 # Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
-interval = 5000
+interval = 3000
 
 # Slide height (optional).
 # E.g. `500px` for 500 pixels or `calc(100vh - 70px)` for full screen.
@@ -30,7 +30,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Course Site"
-  cta_url = "https://pantelis.github.io/cs634"
+  cta_url = "https://pantelis.github.io/aiml-courses/docs/data-mining/cs634/"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 
