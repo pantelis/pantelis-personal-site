@@ -30,7 +30,7 @@ height = ""
   #   Activate the button by specifying a URL and button label below.
   #   Deactivate by commenting out parameters, prefixing lines with `#`.
   cta_label = "Course Site"
-  cta_url = "https://pantelis.github.io/aiml-courses/docs/data-mining/cs634/"
+  cta_url = "https://pantelis.github.io/cs634/docs"
   cta_icon_pack = "fas"
   cta_icon = "graduation-cap"
 

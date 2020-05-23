@@ -37,7 +37,7 @@ weight = 10  # Order that this section will appear.
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://pantelis.github.io/cs634"
+  url = "https://pantelis.github.io/cs634/docs"
   label = "Data Mining"
   icon_pack = "fas"
   icon = "database"
