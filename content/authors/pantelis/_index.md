@@ -10,21 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Head of Applied Machine Learning Research Group & Adjunct Professor
+role: Professor of Practice & Entrepreneur
 
 # Organizations/Affiliations
 organizations:
-- name: Bell Labs, IEEE, Linux Foundation, NJIT, NYU 
-  url: ""
+- name: Computer Science Department, NJIT
+  url: "https://jerseycity.njit.edu/pantelis-monogioudis"
+- name: Aegean AI Inc
+  url: "https://www.aegean.ai"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- 5G
-- Machine Learning and Robotics
-- Simulation
-- Agile / Lean Methodologies
+- AI and Machine Learning
+- Cloud, 5G and Performance Simulation
+- DevOps, Agile Methodologies
 
 education:
   courses:
@@ -82,6 +83,6 @@ I am a recognized industry leader with more than 20 years experience in Research
 
 I started diversifying into Machine Learning (ML) in the last 10 years initially for optimizing networks where we published groundbreaking papers from field trials, on several use cases associated with automated LTE air-interface parameter optimization and 5G beam-space end-user localization. 
 
-Currently, I am the head of Applied Machine Learning Research at Bell Laboratories, leading ~15 researchers in Murray Hill NJ and Budapest, working in the space of real-time video scene understanding via neuro-symbolic reasoning at the network edge. I have been voting member of the [Acumos project](https://www.acumos.org/) and the technical advisory board of the [Linux Foundation AI (LFAI)](https://lfai.foundation/).
+Currently, I am Professor of Practice at NJIT teaching data science. I am also working in a wide range of technologies that can significantly impact society. On the open source side,  I have been voting member of the [Acumos project](https://www.acumos.org/) and the technical advisory board of the [Linux Foundation AI (LFAI)](https://lfai.foundation/).
 
-As of Spring 2019 I am also an adjunct with the Computer Science department of NJIT and as of Spring 2020 with NYU, Tandon School of Engineering. I have coauthored 15 journal publications, some with hundreds of citations, and 50 patents issued/pending. 
+I have coauthored tens of journal publications and patents - I stopped believing in the existing patent system long time back as a result.
